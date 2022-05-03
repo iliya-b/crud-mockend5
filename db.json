@@ -1,0 +1,205 @@
+{
+	"assets":[
+	{"id":16661,"system_id":12762,"list_source_id":3,"type_of_asset":"HOUSE","financial_entity_1":null,"financial_entity_2":null,"nuc":"213000","credit_number_1":"213049","credit_number_2":null,"credit_number_3":null,"sale_status":"AVAILABLE","loan_number":null,"cofinavit":0,"amount_cofinavit":null,"name_of_debtor":" MANUEL","street":"SIERRA DE LAS ","exterior_number":null,"block_number":null,"interior_number":null,"lot_number":null,"area":"LOMAS ","city":"LOS CABOS","state":"BAJA CALIFORNIA SUR","zip_code":null,"geolocation_link":"https:\/\/www.google.com\/maps\/place\/","current_legal_status":null,"last_legal_date":null,"trial_location_state":null,"court_number":null,"file_number":null,"bank_price":1790000,"type_of_currency":"MXN","lowest_authorized_price":null,"dpo":null,"valuation":null,"date_of_valuation":null,"sales_price_1":null,"sales_price_2":null,"sales_price_3":null,"property_classification":"INTER SOCIAL","total_area_m2":null,"construction_m2":null,"number_of_floors":null,"number_of_rooms":null,"number_of_half_restrooms":null,"number_of_full_restrooms":null,"number_of_parking_spaces":null,"client1_name":null,"client1_phone":null,"client1_email":null,"client1_address":null,"client1_id_type":null,"client1_id_number":null,"bank_account_number_clave":null,"bank_name":null,"interbank_account_number":null,"swift_number":null,"company_id":2,"created_at":"2022-03-19T22:55:01.000000Z","updated_at":"2022-04-27T23:31:13.000000Z","status_id":1,"user_id":4,"deleted_at":null,"defaulting_date_1":"2013-06-27","credit_due_date_1":"2023-05-23","is_credit_active_1":1,"total_credit_value_1":"3631858.00","credit_value_due_date_1":"2021-05-31","defaulting_date_2":null,"credit_due_date_2":null,"is_credit_active_2":0,"total_credit_value_2":null,"credit_value_due_date_2":null,"defaulting_date_3":null,"credit_due_date_3":null,"is_credit_active_3":0,"total_credit_value_3":null,"credit_value_due_date_3":null,"liens":"NO DETERMINADO","legal_complaint_filed":0,"documentation_last_legal_status":"EN JURISDICCI","sentencing_date":null,"execution_date":null,"execution_last_allowed_date":null,"observations":null,"pictures":["/storage\/Default\/NQt0y2uIIuq6cePeqneRCppvDGvvfUrEt7YWAXgO.jpg"],"files":[],"sales_documents":[],"assigned_users":[],"comments":[],"user_policies":[]},
+		{"id":653,"system_id":305,"list_source_id":12,"type_of_asset":"HOUSE","financial_entity_1":"HSBC F2323","financial_entity_2":null,"nuc":"11329 (3)","credit_number_1":null,"credit_number_2":null,"credit_number_3":null,"sale_status":"AVAILABLE","loan_number":null,"cofinavit":0,"amount_cofinavit":null,"name_of_debtor":null,"street":"PROLONGACION COLON ","exterior_number":"145","block_number":null,"interior_number":"54","lot_number":null,"area":"LA TIJERA","city":"TLAJOMULCO ","state":null,"zip_code":null,"geolocation_link":"https:\/\/www.google.com\/maps\/place\/","current_legal_status":"EJECUCI","last_legal_date":null,"trial_location_state":"DISTRITO FEDERAL","court_number":null,"file_number":null,"bank_price":null,"type_of_currency":"MXN","lowest_authorized_price":null,"dpo":null,"valuation":null,"date_of_valuation":null,"sales_price_1":null,"sales_price_2":null,"sales_price_3":null,"property_classification":"DERECHO ","total_area_m2":null,"construction_m2":null,"number_of_floors":null,"number_of_rooms":null,"number_of_half_restrooms":null,"number_of_full_restrooms":null,"number_of_parking_spaces":null,"client1_name":null,"client1_phone":null,"client1_email":null,"client1_address":null,"client1_id_type":null,"client1_id_number":null,"bank_account_number_clave":null,"bank_name":null,"interbank_account_number":null,"swift_number":null,"company_id":2,"created_at":"2022-02-17T04:19:51.000000Z","updated_at":"2022-04-12T21:22:10.000000Z","status_id":1,"user_id":4,"deleted_at":null,"defaulting_date_1":null,"credit_due_date_1":null,"is_credit_active_1":0,"total_credit_value_1":null,"credit_value_due_date_1":null,"defaulting_date_2":null,"credit_due_date_2":null,"is_credit_active_2":0,"total_credit_value_2":null,"credit_value_due_date_2":null,"defaulting_date_3":null,"credit_due_date_3":null,"is_credit_active_3":0,"total_credit_value_3":null,"credit_value_due_date_3":null,"liens":null,"legal_complaint_filed":0,"documentation_last_legal_status":null,"sentencing_date":null,"execution_date":null,"execution_last_allowed_date":null,"observations":null,"pictures":["/storage\/Default\/jOl3XWhyhXhQsjOgNRQkmGcBzQsgoUIdkkKgRaEV.jpg"],"files":[],"sales_documents":[],"assigned_users":[],"comments":[{"id":69,"system_id":69,"content":"EXHIBICI (S)","user_id":4,"company_id":2,"created_at":"2022-02-17T04:19:51.000000Z","updated_at":"2022-02-17T04:19:51.000000Z","asset_id":653,"user":{"id":4,"name":"ROBERT","email":"info@example.com","email_verified_at":"2022-02-08T04:40:58.000000Z","created_at":"2022-02-08T04:37:45.000000Z","updated_at":"2022-04-27T23:41:45.000000Z","username":"ROBERT","user_initials":"R. K.","phone": 123456789876,"phone_extension":null,"photo_url":null,"status":"ACTIVE","hiring_date":null,"termination_date":null,"department_id":2,"title_id":2,"company_id":2,"is_super_admin":1,"phone_verified_at":"2022-02-08T04:41:23.000000Z","language":"en"}}],"user_policies":[]}
+	],
+	"companies": [
+	{
+		"address": "perspiciatis sint",
+		"city": "aliquam",
+		"country": "US",
+		"email": "chgbog@gmail.com",
+		"id": 1,
+		"logo_url": "https://i.pravatar.cc/15u=09596",
+		"main_contact_name": "consequuntur",
+		"main_contact_phone_number": "+54951211",
+		"name": "Real Estate LLC",
+		"phone_number": "+42236517",
+		"state": "California",
+		"zip": 43169
+	},
+	{
+		"address": "dolore a amet a",
+		"city": "perferendis",
+		"country": "Mexico",
+		"email": "cggyi@gmail.com",
+		"id": 2,
+		"logo_url": "https://i.pravatar.cc/15u=34599",
+		"main_contact_name": "facilis",
+		"main_contact_phone_number": "+73884961",
+		"name": "D.O.O. Roga i Kopita",
+		"phone_number": "+42672236",
+		"state": "Texas",
+		"zip": 19626
+	},
+	{
+		"address": "vel reprehenderit id",
+		"city": "consequuntur",
+		"country": "US",
+		"email": "uyswfauj@gmail.com",
+		"id": 3,
+		"logo_url": "https://i.pravatar.cc/15u=40953",
+		"main_contact_name": "perspiciatis",
+		"main_contact_phone_number": "+664423151",
+		"name": "D.O.O. Roga i Kopita",
+		"phone_number": "+84134575",
+		"state": "Texas",
+		"zip": 34108
+	},
+	{
+		"address": "voluptatum dolore",
+		"city": "a",
+		"country": "Mexico",
+		"email": "gixqf@gmail.com",
+		"id": 4,
+		"logo_url": "https://i.pravatar.cc/15u=31356",
+		"main_contact_name": "in",
+		"main_contact_phone_number": "+418533727",
+		"name": "D.O.O. Roga i Kopita",
+		"phone_number": "+25445724",
+		"state": "California",
+		"zip": 39115
+	},
+	{
+		"address": "labore quisquam",
+		"city": "consequatur",
+		"country": "US",
+		"email": "epueqdy@gmail.com",
+		"id": 5,
+		"logo_url": "https://i.pravatar.cc/15u=80004",
+		"main_contact_name": "perspiciatis",
+		"main_contact_phone_number": "+767851239",
+		"name": "Real Estate LLC",
+		"phone_number": "+518218831",
+		"state": "Texas",
+		"zip": 23205
+	},
+	{
+		"address": "harum nobis a in labore a",
+		"city": "facere",
+		"country": "Mexico",
+		"email": "cphcjxr@gmail.com",
+		"id": 6,
+		"logo_url": "https://i.pravatar.cc/15u=66310",
+		"main_contact_name": "praesentium",
+		"main_contact_phone_number": "+221423885",
+		"name": "D.O.O. Roga i Kopita",
+		"phone_number": "+855257313",
+		"state": "California",
+		"zip": 17556
+	}
+],
+  "users": [
+	{
+		"company_id": 1,
+		"email": "zlbdwiamy@gmail.com",
+		"id": 1,
+		"is_super_admin": true,
+		"name": "maxime",
+		"phone_number": "+66564538",
+		"title": "uZicvVd7ze",
+		"username": "Zpuepnp"
+	},
+	{
+		"company_id": 4,
+		"email": "otqdxrb@gmail.com",
+		"id": 2,
+		"is_super_admin": true,
+		"name": "libero",
+		"phone_number": "+68188773",
+		"title": "DBonm35kdh",
+		"username": "Pngmoizt"
+	},
+	{
+		"company_id": 2,
+		"email": "kvjdqod@gmail.com",
+		"id": 3,
+		"is_super_admin": false,
+		"name": "dignissimos",
+		"phone_number": "+58822568",
+		"title": "e8n3gTcLUy",
+		"username": "Dwytwx"
+	},
+	{
+		"company_id": 1,
+		"email": "xcyrlxt@gmail.com",
+		"id": 4,
+		"is_super_admin": false,
+		"name": "ex",
+		"phone_number": "+91448424",
+		"title": "4o2kN60iuD",
+		"username": "Uvgcfz"
+	},
+	{
+		"company_id": 1,
+		"email": "hxbkcehz@gmail.com",
+		"id": 5,
+		"is_super_admin": true,
+		"name": "accusantium",
+		"phone_number": "+28686117",
+		"title": "jvbnO3jF0M",
+		"username": "Qtdblrq"
+	},
+	{
+		"company_id": 3,
+		"email": "agarfue@gmail.com",
+		"id": 6,
+		"is_super_admin": false,
+		"name": "neque",
+		"phone_number": "+723291777",
+		"title": "Aneh5OfWA1",
+		"username": "Gwtdcuxu"
+	},
+	{
+		"company_id": 3,
+		"email": "gxapeb@gmail.com",
+		"id": 7,
+		"is_super_admin": true,
+		"name": "nihil",
+		"phone_number": "+358726156",
+		"title": "wINWnKAvMg",
+		"username": "Rruizubsc"
+	},
+	{
+		"company_id": 2,
+		"email": "rsfve@gmail.com",
+		"id": 8,
+		"is_super_admin": true,
+		"name": "dignissimos",
+		"phone_number": "+819429514",
+		"title": "qYrI2St4dT",
+		"username": "Yfxxwxm"
+	},
+	{
+		"company_id": 4,
+		"email": "rdyazv@gmail.com",
+		"id": 9,
+		"is_super_admin": false,
+		"name": "sint",
+		"phone_number": "+366475538",
+		"title": "1NWFbaAXhq",
+		"username": "Bfwpcex"
+	},
+	{
+		"company_id": 2,
+		"email": "ebevcv@gmail.com",
+		"id": 10,
+		"is_super_admin": false,
+		"name": "modi",
+		"phone_number": "+14362478",
+		"title": "q53Ctv5dwj",
+		"username": "Jwlgmb"
+	},
+	{
+		"company_id": 1,
+		"email": "cudecqk@gmail.com",
+		"id": 11,
+		"is_super_admin": true,
+		"name": "maxime",
+		"phone_number": "+719374796",
+		"title": "xaufmn8p2s",
+		"username": "Hletaok"
+	}
+  ]
+
+}
